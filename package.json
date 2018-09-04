@@ -1,0 +1,23 @@
+{
+  "name": "grunt-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yanfei Qiao",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "grunt": "^1.0.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "grunt-babel": "^7.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";var add=function(e,l){return e+l},m=new Map;m.set("hello",42),console.log(add(m.get("hello"),10));
