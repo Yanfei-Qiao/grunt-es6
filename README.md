@@ -1,7 +1,7 @@
 # grunt-es6
 A demo of compiling es6 with grunt
 
-##运行步骤
+## 运行步骤
 
 1. 全局安装grunt-cli
 
